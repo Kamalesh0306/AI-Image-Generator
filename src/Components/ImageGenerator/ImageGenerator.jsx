@@ -20,7 +20,7 @@ const ImageGenerator = () => {
                 headers:{
                     "Content-Type":"application/json",
                     Authorization:
-                    "Bearer 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",
+                    "Bearer your API KEY goes here",
                     "User-Agent":"Chrome",
 
                 },
